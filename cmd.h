@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+#include<curses.h>
 
 #define MAXLINES	400
 #define MAXCOLS		100
