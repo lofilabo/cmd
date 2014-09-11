@@ -2,7 +2,7 @@
 
 
 
-void main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
   char command = 'x';
   int valid_com, n1 = 0, n2 = 0;
